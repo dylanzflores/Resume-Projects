@@ -3,7 +3,7 @@ dyl.flores@protonmail.com
 (702) 466-0155
 
 Link to all Projects on GitHub: 
-https://github.com/flored16/Resume_Projects
+https://github.com/dylanzflores
 
 Link to Video Demos:
 
